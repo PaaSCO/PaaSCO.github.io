@@ -1,0 +1,12 @@
+.site-heading .site-heading-lower {
+}
+
+img, svg {
+  margin-left: 90px;
+}
+
+.d-flex.mx-auto.bg-faded.p-5.rounded {
+  width: 50%;
+  margin-bottom: -20px;
+}
+
